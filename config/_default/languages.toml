@@ -4,3 +4,10 @@ languageName = "En"
 languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
+
+################ Portugues language ##################
+[pt]
+languageName = "Pt"
+languageCode = "pt-br"
+contentDir = "content/portugues"
+weight = 2
